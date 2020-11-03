@@ -83,14 +83,14 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 #app {
-  background-image: url("./assets/cold.png");
+  background-image: url("https://user-images.githubusercontent.com/25447240/97994145-ff7fbd80-1e0a-11eb-998c-faabc49bf002.png");
   background-attachment: scroll;
   background-size: cover;
   background-position: bottom;
   transition: o.2s;
 }
 #app.warm {
-  background-image: url("./assets/hot.jpg");
+  background-image: url("https://user-images.githubusercontent.com/25447240/97994130-fc84cd00-1e0a-11eb-987e-4a4aa1e19eb7.jpg");
 }
 
 main {
