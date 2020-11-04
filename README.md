@@ -1,4 +1,4 @@
-# weather-vue
+# Weather-Vue (https://determined-johnson-adb9c8.netlify.app)
 
 ## Project setup
 ```
